@@ -2,7 +2,7 @@ import requests
 import time
 
 # Το προσωπικό κλειδί - API KEY
-API_KEY = "2256c1c0274cefef364f4a318b7d1bbbf950f390447fae9d6dfd92a004c19de5"
+API_KEY = "YOUR_API_KEY_HERE"
 
 # Δείχνουμε την ταυτότητα μας για να μας αφήσουν να ρωτήσουμε
 headers = {
